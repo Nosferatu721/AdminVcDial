@@ -1,0 +1,6 @@
+"20/09/21  22:39 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 171"
+"20/09/21  22:39 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 148"

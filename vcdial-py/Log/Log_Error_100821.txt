@@ -1,0 +1,3 @@
+10/08/21  15:08 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 387
+10/08/21  15:09 - int() argument must be a string, a bytes-like object or a number, not 'NoneType' - <class 'TypeError'> - AdminVcdial.py - Line: 387
+10/08/21  15:12 - int() argument must be a string, a bytes-like object or a number, not 'NoneType' - <class 'TypeError'> - AdminVcdial.py - Line: 390

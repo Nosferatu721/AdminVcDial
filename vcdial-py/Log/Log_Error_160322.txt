@@ -1,0 +1,19 @@
+16/03/22  10:27 - 'str' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 433
+16/03/22  10:49 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+16/03/22  14:44 - 'str' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 433
+16/03/22  15:51 - invalid literal for int() with base 10: '13/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  15:51 - invalid literal for int() with base 10: '13/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  15:51 - invalid literal for int() with base 10: '13/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  15:51 - invalid literal for int() with base 10: '13/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  15:56 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  15:56 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  16:20 - invalid literal for int() with base 10: '12/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  16:20 - invalid literal for int() with base 10: '12/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  16:20 - invalid literal for int() with base 10: '12/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  16:20 - invalid literal for int() with base 10: '11/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  16:20 - invalid literal for int() with base 10: '11/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  16:20 - invalid literal for int() with base 10: '11/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  16:21 - invalid literal for int() with base 10: '9/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  16:21 - invalid literal for int() with base 10: '9/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  16:21 - invalid literal for int() with base 10: '8/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+16/03/22  16:21 - invalid literal for int() with base 10: '8/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316

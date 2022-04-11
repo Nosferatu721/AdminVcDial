@@ -1,0 +1,1132 @@
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:03 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:06 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:08 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:15 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:15 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:15 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:15 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:15 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:16 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:16 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:18 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:18 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:26 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:26 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:26 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:26 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:26 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:26 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:27 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:27 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:28 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:28 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:28 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:28 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:29 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:30 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:31 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:35 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:55 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:56 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:57 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:57 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:57 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:57 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  15:57 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:03 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:04 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  18:05 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:13 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:15 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+28/12/21  23:16 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141

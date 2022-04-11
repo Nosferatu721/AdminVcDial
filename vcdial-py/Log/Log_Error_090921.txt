@@ -1,0 +1,30 @@
+"09/09/21  19:45 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 174"
+"09/09/21  19:45 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 141"
+"09/09/21  19:46 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 144"
+"09/09/21  19:46 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 148"
+"09/09/21  19:46 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 153"
+"09/09/21  19:47 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 141"
+"09/09/21  19:49 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 144"
+"09/09/21  19:56 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 141"
+"09/09/21  19:58 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 144"
+"09/09/21  19:58 - Message: script timeout
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 167"

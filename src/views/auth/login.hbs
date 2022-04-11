@@ -1,0 +1,168 @@
+{{! <div class="row">
+  <div class="col s12">
+    <video autoplay loop muted id="video_bg">
+      <!-- <source src="video/MINIVIDEO-HOME-ESPANOL.mp4" type="video/mp4"> -->
+      <!-- <source src="video/MINIVIDEO-HOME-ESPANOL.mp4" type="video/mp4"> -->
+      <!-- <source src="video/callpeop.mp4" type="video/mp4"> -->
+      <source src="./video/callWom2.mp4" type="video/mp4" />
+    </video>
+    <div class="container">
+      <div id="login-page" class="row">
+        <div class="col s12 m6 l4 z-depth-4 card-panel border-radius-6 login-card bg-opacity-8">
+          <form class="login-form" action="/login" method="POST">
+            <div class="row">
+              <div class="input-field col s12" id="cont_titulo_platf_cos">
+                <img src="https://outsourcingcos.com/wp-content/themes/dep_cos/img/icons/logo-white-COS.png" alt="Instock" />
+              </div>
+            </div>
+            <div class="row margin">
+              <div class="input-field col s12">
+                <i class="material-icons prefix pt-2">person_outline</i>
+                <input id="username" name="username" type="text" />
+                <label for="username" class="center-align">Usuario</label>
+              </div>
+            </div>
+            <div class="row margin">
+              <div class="input-field col s12">
+                <i class="material-icons prefix pt-2">lock_outline</i>
+                <input id="password" name="password" type="password" />
+                <label for="password">Contraseña</label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col s12 m12 l12 ml-2 mt-1">
+                <p>
+                  <label>
+                    <input type="checkbox" />
+                    <span>Recuerdame</span>
+                  </label>
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="input-field col s12">
+                <button class="btn waves-effect waves-light border-round col s12 cos-btn" type="submit">Login</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="content-overlay"></div>
+  </div>
+</div> }}
+{{!-- 
+<div class="row">
+  <div class="col s12">
+    <div class="container">
+      <div id="login-page" class="row">
+        <div class="col s12 m6 l4 z-depth-4 card-panel border-radius-6 login-card bg-opacity-8">
+          <form class="login-form" action="/login" method="POST">
+            <div class="row">
+              <div class="input-field col s12">
+                <h5 class="ml-4">Sign in</h5>
+              </div>
+            </div>
+            <div class="row margin">
+              <div class="input-field col s12">
+                <i class="material-icons prefix pt-2">person_outline</i>
+                <input id="username" name="username" type="text" />
+                <label for="username" class="center-align">Username</label>
+              </div>
+            </div>
+            <div class="row margin">
+              <div class="input-field col s12">
+                <i class="material-icons prefix pt-2">lock_outline</i>
+                <input id="password" name="password" type="password" />
+                <label for="password">Password</label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col s12 m12 l12 ml-2 mt-1">
+                <p>
+                  <label>
+                    <input type="checkbox" />
+                    <span>Remember Me</span>
+                  </label>
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="input-field col s12">
+                <button class="btn waves-effect waves-light border-round gradient-45deg-purple-deep-orange col s12" type="submit">Login</button>
+              </div>
+            </div>
+            <div class="row">
+              <div class="input-field col s6 m6 l6">
+                <p class="margin medium-small"><a href="/registro">Register Now!</a></p>
+              </div>
+              <div class="input-field col s6 m6 l6">
+                {{! <p class="margin right-align medium-small"><a href="user-forgot-password.html">Forgot password ?</a></p> }}
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="content-overlay"></div>
+  </div>
+</div> --}}
+
+<div class="row">
+  <div class="col s12">
+    <video autoplay="" loop="" muted="" id="video_bg">
+      <!-- <source src="video/MINIVIDEO-HOME-ESPANOL.mp4" type="video/mp4"> -->
+      <!-- <source src="video/MINIVIDEO-HOME-ESPANOL.mp4" type="video/mp4"> -->
+      <!-- <source src="video/callpeop.mp4" type="video/mp4"> -->
+      <source src="/video/callWom2.mp4" type="video/mp4" />
+    </video>
+    <div class="container">
+      <div id="login-page" class="row">
+        <div class="col s12 m6 l4 z-depth-4 card-panel border-radius-6 login-card bg-opacity-8">
+          <form class="login-form" method="POST" action="/login">
+            <div class="row">
+              <div class="input-field col s12" id="cont_titulo_platf_cos">
+                <h5 class="ml-4 login-txt-cos">Login</h5>
+                <img src="https://outsourcingcos.com/wp-content/themes/dep_cos/img/icons/logo-white-COS.png" alt="Instock" />
+              </div>
+            </div>
+            <div class="row margin">
+              <div class="input-field col s12">
+                <i class="material-icons prefix pt-2">person_outline</i>
+                <input class="inp-login-cos" id="username" name="username" type="text" onfocus="detallar(0, 4);" />
+                <label for="username" class="center-align">Usuario</label>
+              </div>
+            </div>
+            <div class="row margin">
+              <div class="input-field col s12">
+                <i class="material-icons prefix pt-2">lock_outline</i>
+                <input class="inp-login-cos" id="password" name="password" type="password" onkeydown="detallar(4, 9);" />
+                <label for="password">Contraseña</label>
+              </div>
+            </div>
+            {{#if message}}
+              <div class="col s12 z-depth-1 messageLogin"><p>{{message}}</p></div>
+            {{/if}}
+            <div class="row">
+              <div class="col s12 m12 l12 ml-2 mt-1">
+                <p>
+                  <label>
+                    <input type="checkbox" />
+                    <span>Recuerdame</span>
+                  </label>
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="input-field col s12">
+                <button id="btn_login" class="btn waves-effect waves-light border-round red darken-4 col s12 cos-btn" type="submit">Login</button>
+                {{! <a onclick="detallar(9, 13);" class="btn waves-effect waves-light border-round col s12 cos-btn">Login</a> }}
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="content-overlay"></div>
+  </div>
+</div>

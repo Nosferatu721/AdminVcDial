@@ -1,0 +1,95 @@
+29/03/22  08:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+29/03/22  08:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+29/03/22  08:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+29/03/22  08:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+29/03/22  08:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+29/03/22  16:12 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:14 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:18 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:18 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:22 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:22 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:22 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:24 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  16:25 - 'list' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 141
+29/03/22  17:04 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:04 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:04 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:11 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:11 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:11 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:11 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:11 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:11 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:11 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:11 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:11 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:12 - invalid literal for int() with base 10: '2/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:12 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:12 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:12 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:12 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:12 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:12 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:13 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+29/03/22  17:13 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316

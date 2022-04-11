@@ -1,0 +1,28 @@
+"05/08/21  11:28 - Message: 'chromedriver' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 198"
+05/08/21  11:28 - local variable 'driver' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 199
+"05/08/21  11:28 - Message: 'chromedriver' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 198"
+05/08/21  11:28 - local variable 'driver' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 199
+"05/08/21  11:29 - Message: 'chromedriver' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 198"
+05/08/21  11:29 - local variable 'driver' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 199
+"05/08/21  11:48 - Message: 'chromedriver' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 199"
+05/08/21  11:48 - local variable 'driver' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 199
+"05/08/21  11:49 - Message: 'chromedriver_91' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 200"
+05/08/21  11:49 - local variable 'driver' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 199
+"05/08/21  11:52 - Message: 'chromedriver_91' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 200"
+05/08/21  11:52 - local variable 'driver' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 199
+05/08/21  11:53 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 205
+05/08/21  11:58 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 205
+05/08/21  11:59 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 205
+05/08/21  15:27 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 205
+05/08/21  15:56 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 205
+05/08/21  15:57 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 205
+05/08/21  15:59 - type object 'FuncPrograma' has no attribute 'controlERROR' - <class 'AttributeError'> - AdminVcdial.py - Line: 276
+05/08/21  16:01 - type object 'FuncPrograma' has no attribute 'controlERROR' - <class 'AttributeError'> - AdminVcdial.py - Line: 276
+"05/08/21  16:05 - Message: Cannot locate option with value: None
+ - <class 'selenium.common.exceptions.NoSuchElementException'> - AdminVcdial.py - Line: 276"

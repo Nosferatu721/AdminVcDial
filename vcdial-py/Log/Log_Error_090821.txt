@@ -1,0 +1,581 @@
+"09/08/21  10:03 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:03 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:03 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:03 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:03 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:03 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:03 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:03 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:04 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:05 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:05 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:05 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:05 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:09 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 127"
+"09/08/21  10:09 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 127"
+"09/08/21  10:09 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 127"
+"09/08/21  10:09 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 127"
+"09/08/21  10:09 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 127"
+"09/08/21  10:09 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 127"
+"09/08/21  10:09 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 127"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:20 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:21 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:22 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  10:23 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 127"
+"09/08/21  10:23 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 127"
+"09/08/21  10:23 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 127"
+"09/08/21  14:05 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:05 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:05 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:06 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:06 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:06 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:06 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:06 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:06 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:06 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:06 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:06 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:10 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:10 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:10 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:10 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:10 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:10 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:10 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:10 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 158"
+"09/08/21  14:28 - Message: Cannot locate option with value: FAPÄIN
+ - <class 'selenium.common.exceptions.NoSuchElementException'> - AdminVcdial.py - Line: 344"
+"09/08/21  14:41 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 165"
+"09/08/21  14:41 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 165"
+"09/08/21  14:41 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 165"
+"09/08/21  14:41 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 165"
+"09/08/21  14:41 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 165"
+"09/08/21  14:41 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 165"
+"09/08/21  14:41 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 165"
+"09/08/21  14:41 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 165"
+"09/08/21  14:46 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 165"
+"09/08/21  14:48 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 165"
+"09/08/21  14:50 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 167"
+"09/08/21  14:51 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 169"
+"09/08/21  14:53 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 173"
+"09/08/21  14:54 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 181"
+"09/08/21  14:56 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 181"
+"09/08/21  15:00 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 181"
+"09/08/21  15:05 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 181"
+"09/08/21  15:07 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 181"
+"09/08/21  15:13 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 183"
+09/08/21  15:46 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 317
+"09/08/21  16:05 - Message: Cannot locate option with value: CROSS
+ - <class 'selenium.common.exceptions.NoSuchElementException'> - AdminVcdial.py - Line: 390"

@@ -1,0 +1,10 @@
+11/08/21  09:09 - int() argument must be a string, a bytes-like object or a number, not 'NoneType' - <class 'TypeError'> - AdminVcdial.py - Line: 390
+11/08/21  09:11 - int() argument must be a string, a bytes-like object or a number, not 'NoneType' - <class 'TypeError'> - AdminVcdial.py - Line: 391
+11/08/21  09:18 - int() argument must be a string, a bytes-like object or a number, not 'NoneType' - <class 'TypeError'> - AdminVcdial.py - Line: 392
+11/08/21  09:23 - int() argument must be a string, a bytes-like object or a number, not 'NoneType' - <class 'TypeError'> - AdminVcdial.py - Line: 393
+11/08/21  09:27 - int() argument must be a string, a bytes-like object or a number, not 'NoneType' - <class 'TypeError'> - AdminVcdial.py - Line: 395
+11/08/21  09:31 - local variable 'metodoMarcado' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 221
+11/08/21  09:31 - local variable 'metodoMarcado' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 221
+11/08/21  09:31 - local variable 'metodoMarcado' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 221
+11/08/21  09:42 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 320
+11/08/21  11:35 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 316

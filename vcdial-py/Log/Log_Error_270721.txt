@@ -1,0 +1,10 @@
+"27/07/21  15:51 - Message: 'chromedriver_91' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 196"
+"27/07/21  15:51 - Message: 'chromedriver_91' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 196"
+"27/07/21  15:55 - Message: 'chromedriver_91' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 196"
+"27/07/21  16:03 - Message: 'chromedriver_91' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 198"
+"27/07/21  16:07 - Message: 'chromedriver_91' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ - <class 'selenium.common.exceptions.WebDriverException'> - Principal.py - Line: 198"

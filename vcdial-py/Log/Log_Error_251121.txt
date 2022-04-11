@@ -1,0 +1,22 @@
+25/11/21  14:06 - 'str' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 433
+25/11/21  15:33 - 'str' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 433
+25/11/21  15:36 - 'str' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 433
+25/11/21  15:37 - 'str' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 433
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - Principal.py - Line: 478
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 310
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 539
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 296
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 539
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 296
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 539
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 296
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 539
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 296
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 539
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 296
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 296
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 539
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 539
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 407
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 296
+25/11/21  15:55 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 539

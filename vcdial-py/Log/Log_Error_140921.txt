@@ -1,0 +1,9 @@
+14/09/21  08:00 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - Principal.py - Line: 590
+14/09/21  08:00 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 220
+14/09/21  08:00 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 425
+14/09/21  08:00 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - Principal.py - Line: 590
+14/09/21  08:00 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 220
+14/09/21  08:00 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 425
+14/09/21  08:00 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - Principal.py - Line: 590
+14/09/21  08:00 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 220
+14/09/21  08:00 - [Errno 32] Broken pipe - <class 'BrokenPipeError'> - AdminVcdial.py - Line: 425

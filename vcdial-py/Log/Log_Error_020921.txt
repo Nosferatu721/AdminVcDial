@@ -1,0 +1,9 @@
+"02/09/21  14:34 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=92.0.4515.159)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 148"
+"02/09/21  14:34 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=92.0.4515.159)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 148"
+"02/09/21  14:34 - Message: javascript error: Cannot read property 'innerText' of null
+  (Session info: chrome=92.0.4515.159)
+ - <class 'selenium.common.exceptions.JavascriptException'> - AdminVcdial.py - Line: 148"

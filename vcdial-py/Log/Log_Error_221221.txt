@@ -1,0 +1,1 @@
+22/12/21  08:54 - 'str' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 433

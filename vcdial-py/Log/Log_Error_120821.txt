@@ -1,0 +1,32 @@
+12/08/21  09:15 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 261
+12/08/21  09:18 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 261
+12/08/21  10:03 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 315
+12/08/21  10:03 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 315
+12/08/21  10:03 - int() argument must be a string, a bytes-like object or a number, not 'NoneType' - <class 'TypeError'> - AdminVcdial.py - Line: 215
+12/08/21  10:04 - int() argument must be a string, a bytes-like object or a number, not 'NoneType' - <class 'TypeError'> - AdminVcdial.py - Line: 215
+12/08/21  10:04 - int() argument must be a string, a bytes-like object or a number, not 'NoneType' - <class 'TypeError'> - AdminVcdial.py - Line: 215
+12/08/21  10:05 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  10:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  10:16 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  10:21 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  10:27 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  10:32 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  10:37 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  10:42 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  10:48 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  10:53 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  10:58 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:04 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:09 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:30 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:35 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:41 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:46 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:51 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  11:57 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  12:02 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 245
+12/08/21  12:07 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 257
+12/08/21  12:15 - local variable 'COD_TAREA' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 317

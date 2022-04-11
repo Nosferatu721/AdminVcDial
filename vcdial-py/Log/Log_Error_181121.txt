@@ -1,0 +1,4 @@
+18/11/21  10:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+18/11/21  10:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+18/11/21  10:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+18/11/21  10:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144

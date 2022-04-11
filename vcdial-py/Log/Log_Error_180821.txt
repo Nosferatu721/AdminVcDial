@@ -1,0 +1,94 @@
+18/08/21  09:10 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:11 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  09:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  09:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  09:15 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:16 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:18 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  09:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  09:35 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:36 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:38 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  09:39 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:40 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:41 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:42 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:42 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:43 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:43 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:43 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  09:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  11:14 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 411
+18/08/21  15:12 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  15:13 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  15:14 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  15:15 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  15:17 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  15:18 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  15:19 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  15:20 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  15:22 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  15:23 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 251
+18/08/21  19:24 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  19:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+"18/08/21  19:25 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:25 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:25 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+"18/08/21  19:26 - Message: chrome not reachable
+  (Session info: chrome=91.0.4472.114)
+ - <class 'selenium.common.exceptions.WebDriverException'> - AdminVcdial.py - Line: 136"
+18/08/21  19:28 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  19:42 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  19:43 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  19:45 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  19:46 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263
+18/08/21  19:47 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 263

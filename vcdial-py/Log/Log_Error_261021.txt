@@ -1,0 +1,14 @@
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539
+26/10/21  06:16 - local variable 'intervaloAdmin' referenced before assignment - <class 'UnboundLocalError'> - AdminVcdial.py - Line: 539

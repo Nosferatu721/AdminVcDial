@@ -1,0 +1,113 @@
+<div class="row">
+  <!--<div class="content-wrapper-before gradient-45deg-indigo-purple"></div>-->
+  <div class="col s12">
+    <h2 id="heroTitle">Lista de Bots</h2>
+    <div class="container" id="containerBots">
+    </div>
+  </div>
+</div>
+
+<!-- Modal Structure -->
+<div id="modal_crear_bot" class="modal_crear_bot modal">
+  <div class="modal-content">
+    <h4 class="">Crear Bot</h4>
+    <form class="form-new-bot z-depth-1">
+      <div class="row">
+        <div class="input-field col m4 s12">
+          <i class="material-icons prefix">filter_tilt_shift</i>
+          <input id="nombre_bot" name="nombre_bot" type="text" data-length="18" class="nombre_bot" />
+          <label for="nombre_bot" class="">Nombre Bot</label>
+        </div>
+        <div class="input-field col m4 s12">
+          <i class="material-icons prefix">filter_tilt_shift</i>
+          <input id="ip" name="ip" type="text" class="" />
+          <label for="ip" class="">Ip</label>
+        </div>
+        <div class="input-field col m4 s12">
+          <i class="material-icons prefix">account_box</i>
+          <input id="user" name="user" type="text" class="" />
+          <label for="user" class="">User</label>
+        </div>
+        <div class="input-field col m4 s12">
+          <i class="material-icons prefix">border_color</i>
+          <input id="password" name="password" type="password" class="" />
+          <label for="password" class="">Contraseña</label>
+        </div>
+        <div class="input-field col m4 s12">
+          <select id="selectCamp" name="selectCamp" class="selectCamp displayNone browser-default">
+          </select>
+        </div>
+      </div>
+
+      <div class="row center-align containerBtn">
+        <button class="" id="btn_crear_bot">
+          <span>Crear Bot</span>
+        </button>
+        <button class="displayNone" id="btn_agregar_camp">
+          <span>Agregar Campaña</span>
+        </button>
+      </div>
+    </form>
+  </div>
+  <div class="modal-footer modal-footer-form">
+    <div class="containerBtn">
+      <button id="btn_limpiar">
+        <span>Limpiar</span>
+      </button>
+    </div>
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">Cerrar</a>
+  </div>
+</div>
+
+<div id="modal_config_bot" class="modal_config_bot modal">
+  <div class="modal-content">
+    <h4 class="" id="formConfig_nombreBot"></h4>
+    <form class="form-config-bot z-depth-1">
+      <div class="row">
+        <div class="input-field col m4 s12">
+          <i class="material-icons prefix">access_time</i>
+          <input id="periodoCambio" name="periodoCambio" type="text" class="" />
+          <label for="periodoCambio" class="">Periodo de Cambio</label>
+          <span class="helper-text" data-error="wrong" data-success="right">Helper text</span>
+        </div>
+        <div class="input-field col m4 s12">
+          <i class="material-icons prefix">access_time</i>
+          <input id="limiteDisponible" name="limiteDisponible" type="text" class="" />
+          <label for="limiteDisponible" class="">Limite Disp.</label>
+          <span class="helper-text" data-error="wrong" data-success="right">Helper text</span>
+        </div>
+        <div class="input-field col m4 s12">
+          <select id="selectRatio" name="selectRatio" class="selectRatio browser-default">
+            <option value="" disabled="" selected="">Choose your option</option>
+            <option value="RATIO">RATIO</option>
+            <option value="ADAPT_HARD_LIMIT">ADAPT_HARD_LIMIT</option>
+          </select>
+          <span class="helper-text" data-error="wrong" data-success="right">Helper text</span>
+        </div>
+      </div>
+
+      <div class="row center-align containerBtn">
+        <button class="" id="btn_aplicar_config">
+          <span>Aplicar</span>
+        </button>
+      </div>
+    </form>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">Cerrar</a>
+  </div>
+</div>
+
+<div id="modal_ver_mas" class="modal_ver_mas modal">
+  <div class="modal-content">
+    <h4 class="center modal_nombreBot" id="modal_nombreBot"></h4>
+    <div class="grid-container" id="modal_infoBot">
+    </div>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect waves-green btn-flat">Cerrar</a>
+  </div>
+</div>
+
+{{! Script }}
+<script src="/js/bot.js"></script>

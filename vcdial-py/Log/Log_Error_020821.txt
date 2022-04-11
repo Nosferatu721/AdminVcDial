@@ -1,0 +1,5 @@
+02/08/21  11:25 - obtenerListaCampanas() missing 1 required positional argument: 'contrasenaVcidial' - <class 'TypeError'> - AdminVcdial.py - Line: 309
+02/08/21  11:30 - obtenerListaCampanas() missing 1 required positional argument: 'contrasenaVcidial' - <class 'TypeError'> - AdminVcdial.py - Line: 302
+02/08/21  11:32 - obtenerListaCampanas() missing 1 required positional argument: 'contrasenaVcidial' - <class 'TypeError'> - AdminVcdial.py - Line: 307
+02/08/21  11:34 - obtenerListaCampanas() missing 1 required positional argument: 'contrasenaVcidial' - <class 'TypeError'> - AdminVcdial.py - Line: 307
+02/08/21  11:37 - obtenerListaCampanas() missing 1 required positional argument: 'contrasenaVcidial' - <class 'TypeError'> - AdminVcdial.py - Line: 313

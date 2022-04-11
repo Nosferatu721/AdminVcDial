@@ -1,0 +1,242 @@
+04/04/22  03:48 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:48 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:48 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:48 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:48 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:48 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:49 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:49 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:49 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:49 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:49 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:49 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:50 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:50 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:50 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:50 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:50 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:50 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:51 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:51 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:51 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:51 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:51 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:51 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:51 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:52 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:52 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:52 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  03:52 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  09:28 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  09:30 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:30 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:30 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:30 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:30 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:30 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:32 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:33 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:33 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:33 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:33 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:33 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:33 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:33 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:33 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:33 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '2/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '2/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '2/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '2/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '2/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/3' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:34 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/2' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:35 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:36 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:36 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:36 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:36 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:36 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:36 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:36 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:36 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:36 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:37 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:37 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:38 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:39 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:40 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:41 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:41 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:41 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:41 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:48 - invalid literal for int() with base 10: '1/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:49 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:49 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:49 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:49 - invalid literal for int() with base 10: '2/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:49 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:49 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:49 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:49 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  09:49 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:02 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+04/04/22  10:14 - invalid literal for int() with base 10: '5/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:14 - invalid literal for int() with base 10: '5/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:14 - invalid literal for int() with base 10: '5/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:14 - invalid literal for int() with base 10: '5/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:14 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:14 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:14 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:14 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:59 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:59 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:59 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:59 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:59 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:59 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  10:59 - invalid literal for int() with base 10: '3/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  15:02 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  15:02 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  15:02 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  15:02 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  15:02 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  15:02 - invalid literal for int() with base 10: '4/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  17:08 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  17:08 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  17:08 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  17:08 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  17:08 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  17:08 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  17:08 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316
+04/04/22  17:08 - invalid literal for int() with base 10: '6/1' - <class 'ValueError'> - AdminVcdial.py - Line: 316

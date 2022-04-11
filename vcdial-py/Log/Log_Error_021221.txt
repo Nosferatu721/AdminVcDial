@@ -1,0 +1,9 @@
+02/12/21  10:31 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+02/12/21  10:31 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+02/12/21  10:31 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+02/12/21  10:31 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+02/12/21  10:31 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+02/12/21  10:31 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+02/12/21  16:37 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+02/12/21  16:37 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
+02/12/21  16:37 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144

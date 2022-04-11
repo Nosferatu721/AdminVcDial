@@ -1,0 +1,12 @@
+"22/09/21  22:43 - Message: timeout: Timed out receiving message from renderer: 300,000
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 151"
+"22/09/21  22:43 - Message: timeout: Timed out receiving message from renderer: 300,000
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 144"
+"22/09/21  22:45 - Message: timeout: Timed out receiving message from renderer: 300,000
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 169"
+"22/09/21  22:45 - Message: timeout: Timed out receiving message from renderer: 300,000
+  (Session info: chrome=93.0.4577.63)
+ - <class 'selenium.common.exceptions.TimeoutException'> - AdminVcdial.py - Line: 156"

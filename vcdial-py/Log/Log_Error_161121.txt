@@ -1,0 +1,2 @@
+16/11/21  10:59 - 'str' object has no attribute 'status_code' - <class 'AttributeError'> - AdminVcdial.py - Line: 433
+16/11/21  11:25 - list index out of range - <class 'IndexError'> - AdminVcdial.py - Line: 144
